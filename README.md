@@ -15,3 +15,4 @@ Materiales a ser utilizados
 - 1 Cable usb para Arduino
 - 4 Cables macho - macho
 - 1 Teléfono Smart con android
+![Diagrama Electrónico](https://user-images.githubusercontent.com/23123783/101281909-e074a280-379f-11eb-9e16-98a3459e9b6f.png)
