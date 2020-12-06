@@ -18,13 +18,15 @@ Empezaré con ejemplos sencillos y luego pondré algunos códigos más complicad
 
 ## Diagrama Electrónico
 
-![Diagrama Electrónico](https://user-images.githubusercontent.com/23123783/101281909-e074a280-379f-11eb-9e16-98a3459e9b6f.png)
+
+![circuito Electronico](https://user-images.githubusercontent.com/23123783/101284700-5e8c7580-37af-11eb-881b-38a78ffe03ce.JPG)
+
 
 ## Diagrama En bloques
 
-![Diagrama en bloques App inventor](https://user-images.githubusercontent.com/23123783/101281998-71e41480-37a0-11eb-92a7-e9f591a1ad4b.png)
+![Diagrama en bloques](https://user-images.githubusercontent.com/23123783/101284691-53d1e080-37af-11eb-8041-48c702946dd2.png)
+
 
 ## Circuito protoboard
 
-![Circuito en protoboard](https://user-images.githubusercontent.com/23123783/101282045-a788fd80-37a0-11eb-9202-56239dfcbf60.jpeg)
-
+![Circuito protoboard](https://user-images.githubusercontent.com/23123783/101284707-677d4700-37af-11eb-887a-24fd08f2954d.jpeg)
