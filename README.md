@@ -22,3 +22,5 @@ Empezaré con ejemplos sencillos y luego pondré algunos códigos más complicad
 
 ## Diagrama En bloques
 
+![Diagrama en bloques App inventor](https://user-images.githubusercontent.com/23123783/101281998-71e41480-37a0-11eb-92a7-e9f591a1ad4b.png)
+
