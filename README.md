@@ -19,8 +19,7 @@ Empezaré con ejemplos sencillos y luego pondré algunos códigos más complicad
 ## Diagrama Electrónico
 
 
-![circuito Electronico](https://user-images.githubusercontent.com/23123783/101284700-5e8c7580-37af-11eb-881b-38a78ffe03ce.JPG)
-
+![Captura](https://user-images.githubusercontent.com/23123783/101284882-626cc780-37b0-11eb-807f-48b302fb7685.JPG)
 
 ## Diagrama En bloques
 
