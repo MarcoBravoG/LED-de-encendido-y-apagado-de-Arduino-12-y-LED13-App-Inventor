@@ -23,7 +23,8 @@ Empezaré con ejemplos sencillos y luego pondré algunos códigos más complicad
 
 ## Diagrama En bloques
 
-![Diagrama en bloques](https://user-images.githubusercontent.com/23123783/101284691-53d1e080-37af-11eb-8041-48c702946dd2.png)
+
+![Diagrama en bloques App inventor](https://user-images.githubusercontent.com/23123783/101285576-f55b3100-37b3-11eb-8cb8-7b2910bdbb8e.png)
 
 
 ## Circuito protoboard
