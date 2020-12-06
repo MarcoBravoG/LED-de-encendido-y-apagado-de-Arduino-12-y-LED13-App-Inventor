@@ -1,6 +1,6 @@
 # LED-de-encendido-y-apagado-de-Arduino-12-y-LED13-App-Inventor
 
-## Hola amigos,
+## Hola Mundo,
 
 En este tema voy a mostrar algunos ejemplos de Arduino UNO con el módulo Bluetooth HC-05.
 
