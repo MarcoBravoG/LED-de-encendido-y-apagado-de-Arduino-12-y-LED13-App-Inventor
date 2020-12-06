@@ -29,4 +29,5 @@ Empezaré con ejemplos sencillos y luego pondré algunos códigos más complicad
 
 ## Circuito protoboard
 
-![Circuito protoboard](https://user-images.githubusercontent.com/23123783/101284707-677d4700-37af-11eb-887a-24fd08f2954d.jpeg)
+![Circuito en protoboard](https://user-images.githubusercontent.com/23123783/101285697-9649ec00-37b4-11eb-9e93-8bf64ad28629.jpeg)
+
